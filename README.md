@@ -46,6 +46,10 @@ or
    python main.py
    ```
 
-### Additional Information
+#### Additional Information
 
 If you encounter any issues or have questions, please open an issue in this repository.
+
+## About this project
+
+This project is a culmination of all of the concepts learned in CIT 129, Introduction to Programming. These concepts included data types, loop types, arrays, functions, pseudocode, flowcharting, and an introduction to Python.
